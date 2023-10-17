@@ -5,7 +5,7 @@ My name is Janira Gayle. I was born and raised in Brooklyn, New York, but my fam
 Through the CS courses I have taken at Columbia, such as Data Structures and Advanced Programming, I have gained proficiency in the programming languages Java and Python, as well as exposure to C! Currently, I am taking CS50's Web Development course where I am learning HTML, CSS, Django, SQL, and JavaScript. Check out the "I'm currently working on ..." section to see my progress!
 
 ## 🔭 I’m currently working on ...
-###  [Affirmations Digital Clock]()
+###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock)
 - A digital clock that sends notifications every time it hits an angel number!
 ###  [My Art Portfolio!](https://github.com/janiragayle/janiragayle.github.io)
 - A simple website to document my artwork
