@@ -7,8 +7,8 @@ Through the CS courses I have taken at Columbia, such as Data Structures and Adv
 ## 🔭 I’m currently working on ...
 ###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock)
 - A digital clock that sends notifications every time it hits an angel number!
-###  [My Art Portfolio!](https://github.com/janiragayle/janiragayle.github.io)
-- A simple website to document my artwork
+###  [Art Portfolio Template]()
+- A minimalistic art portfolio website any user new to HTML can download and edit!
 ###  [Re-implementation of Google Homepage](https://htmlpreview.github.io/?https://github.com/janiragayle/Google-Homepage/blob/main/index.html)
 - A re-implementation of Google's Homepage. The goal of this project was really just to experiment with HTML and CSS.
 
