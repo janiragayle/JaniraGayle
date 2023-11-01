@@ -9,7 +9,7 @@ Through the CS courses I have taken at Columbia, such as Data Structures and Adv
 - A digital clock that sends notifications every time it hits an angel number!
 ###  [Art Portfolio Template]()
 - A minimalistic art portfolio website any user new to HTML can download and edit!
-###  [Barbie Google Search](https://htmlpreview.github.io/?https://github.com/janiragayle/Google-Homepage/blob/main/index.html)
+###  [Barbie Google Search](https://htmlpreview.github.io/?https://github.com/janiragayle/Barbie-Google-Search/blob/main/index.html)
 - A Barbie themed google serach, google image search, and advance search
 
 <!--
