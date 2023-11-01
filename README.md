@@ -9,8 +9,8 @@ Through the CS courses I have taken at Columbia, such as Data Structures and Adv
 - A digital clock that sends notifications every time it hits an angel number!
 ###  [Art Portfolio Template]()
 - A minimalistic art portfolio website any user new to HTML can download and edit!
-###  [Re-implementation of Google Homepage](https://htmlpreview.github.io/?https://github.com/janiragayle/Google-Homepage/blob/main/index.html)
-- A re-implementation of Google's Homepage. The goal of this project was really just to experiment with HTML and CSS.
+###  [Barbie Google Search](https://htmlpreview.github.io/?https://github.com/janiragayle/Google-Homepage/blob/main/index.html)
+- A Barbie themed google serach, google image search, and advance search
 
 <!--
 **janiragayle/JaniraGayle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
