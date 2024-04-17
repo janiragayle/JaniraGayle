@@ -7,15 +7,15 @@ My name is Janira Gayle (she/her). I was born and raised in NYC, but my family i
 ## 🔭 I’m currently working on ...
 
 ###  [Art Portfolio Template](https://github.com/janiragayle/Art-Portfolio-Template)
-- A minimalistic art portfolio website any user new to HTML can download and edit!
+- A template for a minimalistic art portfolio website.
 ###  [Barbie Google Search](https://github.com/janiragayle/Barbie-Google-Search)
-- A Barbie themed google serach, google image search, and advance search
+- A Barbie themed google serach, google image search, and advance search.
 
 ## 👩🏽‍💻 I just finished ...
-###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock) April-2024
+###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock) (April-2024)
 - A digital clock that provides a short definition of every angel number it hits!
 
-##📫 How to reach me: 
+## 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/janira-gayle/
 - Email: Please ask through Linkedin.
 <!--
