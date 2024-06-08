@@ -4,7 +4,8 @@ My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa 
 
 
 ## 🔭 I’m currently working on ...
-
+###  [Poker](https://github.com/janiragayle/Poker)
+- A one player poker game where the user can win tokens based on their hand ranking
 ###  [Art Portfolio Template](https://github.com/janiragayle/Art-Portfolio-Template)
 - A template for a minimalistic art portfolio website.
 ###  [Barbie Google Search](https://github.com/janiragayle/Barbie-Google-Search)
@@ -16,7 +17,6 @@ My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa 
 
 ## 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/janira-gayle/
-- Email: Please ask through Linkedin.
 <!--
 **janiragayle/JaniraGayle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
