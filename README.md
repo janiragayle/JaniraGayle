@@ -4,16 +4,18 @@ My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa 
 
 
 ## 👩🏽‍💻 I just finished ...
-###  [Poker](https://github.com/janiragayle/Poker)(June 2024)
-- A one player poker game where the user can win tokens based on their hand ranking
+###  [Poker](https://github.com/janiragayle/Poker) (June 2024)
+- A one player poker game where the user can win tokens based on their hand ranking.
 ###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock) (April-2024)
 - A digital clock that provides a short definition of every angel number it hits!
+
 
 ## 🔭 I’m currently working on ...
 ###  [Art Portfolio Template](https://github.com/janiragayle/Art-Portfolio-Template)
 - A template for a minimalistic art portfolio website.
 ###  [Barbie Google Search](https://github.com/janiragayle/Barbie-Google-Search)
 - A Barbie themed google serach, google image search, and advance search.
+
 
 ## 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/janira-gayle/
