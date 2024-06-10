@@ -4,7 +4,7 @@ My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa 
 
 
 ## 👩🏽‍💻 I just finished ...
-###  [Poker](https://github.com/janiragayle/Poker) (June 2024)
+###  [Poker](https://github.com/janiragayle/Poker) (June-2024)
 - A one player poker game where the user can win tokens based on their hand ranking.
 ###  [Affirmations Digital Clock](https://github.com/janiragayle/Affirmations-Clock) (April-2024)
 - A digital clock that provides a short definition of every angel number it hits!
