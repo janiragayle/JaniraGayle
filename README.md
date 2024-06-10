@@ -1,6 +1,6 @@
 ## Hi there 👋. A little bit about me :
 
-My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa rican new yorker. I am a rising senior at Columbia University studying computer science and visual arts and my career goals consist of becoming a full-stack software engineer. As for visual arts, I hope to have one of my series of artworks displayed in a NYC gallery.
+My name is Janira Gayle (she/her) and I am a born and raised puerto rican/costa rican new yorker. I am a rising senior at Columbia University studying computer science and visual arts and my career goals consist of becoming a full-stack software engineer. As for visual arts, I hope to have an art series displayed in a NYC gallery.
 
 
 ## 👩🏽‍💻 I just finished ...
