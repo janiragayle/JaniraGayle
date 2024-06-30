@@ -2,6 +2,15 @@
 
 My name is Janira Gayle (she/her) and I am front-end software engineer and visual artist based in New York City.
 
+## 🔭 I’m currently working on ...
+###  [Visual Art Portfolio Template (A)](https://github.com/janiragayle/Art-Portfolio-Template)
+- This template (A) for a minimalistic visual art portfolio website.
+- Motivations: It is important for visual artist to have a portfolio website to show their work. However, it can be very difficult to find an affordable and efficent design. This template is simple and straight to the point, perfect for any visual artist who wants to quickly display their art work. It also mimmics the style of many artist websites:
+
+
+###  [Latin American Recpie Database Website]()
+- A Latin American receipe website that acts as a multi-generational database to perseve cultural dishes.
+- Motivations: 
 
 ## 👩🏽‍💻 I just finished ...
 ###  [Poker](https://github.com/janiragayle/Poker) (June-2024)
@@ -12,11 +21,7 @@ My name is Janira Gayle (she/her) and I am front-end software engineer and visua
 - A digital clock that provides a short definition of every angel number it hits!
 
 
-## 🔭 I’m currently working on ...
-###  [Art Portfolio Template](https://github.com/janiragayle/Art-Portfolio-Template)
-- A template for a minimalistic art portfolio website.
-###  [Barbie Google Search](https://github.com/janiragayle/Barbie-Google-Search)
-- A Barbie themed google serach, google image search, and advance search.
+
 
 
 ## 📫 How to reach me: 
