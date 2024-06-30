@@ -3,9 +3,10 @@
 My name is Janira Gayle (she/her) and I am front-end software engineer and visual artist based in New York City.
 
 ## 🔭 I’m currently working on ...
-###  [Visual Art Portfolio Template (A)]()
+###  [Visual Art Portfolio Template (A)](https://github.com/janiragayle/art-portfolio-a)
 - This is template (A) for a minimalistic visual art portfolio website.
-
+- Click [here](https://art-portfolio-a.netlify.app) to preview!
+  
 **Motivations**: It is important for visual artist to have a portfolio website to show their work. However, it can be very difficult to find an affordable and efficent design. This template is simple and straight to the point, perfect for any visual artist who wants to quickly display their art work.
 
 ###  [South American Recepie Website]()
