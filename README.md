@@ -12,7 +12,7 @@ My name is Janira Gayle (she/her) and I am front-end software engineer and visua
 **Motivations**: It is important for visual artist to have a portfolio website to show their work. However, it can be very difficult to find an affordable and efficent design. This template is simple and straight to the point, perfect for any visual artist who wants to quickly display their art work.
 
 ###  [South American Recepie Website]()
-- A Latin American receipe website that acts as a multi-generational database to perseve cultural dishes.
+- A Latin American recipe website that acts as a multi-generational database to preserve cultural dishes.
   
 **Motivations:** Immigration and language barriers between generations often result in many unwritten recipes being lost. I want to create a digital database and community that allows Latin Americans and Carribbean families to perserve their family recipes while also being able to engage with recpies from other families. 
 
