@@ -1,6 +1,6 @@
 ## Hi there 👋. A little bit about me :
 
-My name is Janira Gayle (she/her) and I am front-end software engineer and visual artist based in New York City.
+My name is Janira Gayle (she/her) and I am front-end developer and visual artist based in New York City.
 
 ## 🔭 I’m currently working on ...
 ###  [Visual Art Portfolio Template (A)](https://github.com/janiragayle/art-portfolio-a)
