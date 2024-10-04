@@ -1,6 +1,6 @@
 ## Hi there 👋. A little bit about me :
 
-My name is Janira Gayle (she/her) and I am front-end developer and visual artist based in New York City.
+My name is Janira Gayle (she/her) and I am software developer and visual artist based in New York City.
 
 ## 🔭 I’m currently working on ...
 ###  [Rate My Professor Chatbox](https://github.com/cindyweng18/rmp-ai-assistant)
