@@ -34,8 +34,31 @@
   <br>𝘨𝘢𝘺𝘭𝘦.𝘫𝘢𝘯𝘪𝘳𝘢@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
 </p>
 
-| <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" /> | <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" /> | 
-| - | - | - | - |
+---
+<div align="center">
+
+  <img 
+    src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" 
+    alt="HTML5 Badge" 
+    style="margin: 5px;" 
+  />
+  <img 
+    src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" 
+    alt="CSS3 Badge" 
+    style="margin: 5px;" 
+  />
+  <img 
+    src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript" 
+    alt="JavaScript Badge" 
+    style="margin: 5px;" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" 
+    alt="Next.js Badge" 
+    style="margin: 5px;" 
+  />
+</div>
+
 <!--
   
 ## 🔭 I’m currently working on ...
