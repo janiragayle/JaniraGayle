@@ -3,7 +3,7 @@ My name is Janira Gayle (she/her) and I am software developer and visual artist 
 
 ---
 
-## Heres some of my favorite projects:
+## Here are some of my favorite projects:
 | **Project** | **Preview** |
 | - | - |
 | **[Boba Shop Chatbox](https://github.com/janiragayle/boba-chatbox?tab=readme-ov-file)** <br><br>Worked in a team of 3 to develop an interactive customer support agent using Next.js and Llama API| <img width="1000" alt="boba-menu" src="https://github.com/user-attachments/assets/3ee0831d-05d3-4f88-a5a2-0101edae91d6" /> |
