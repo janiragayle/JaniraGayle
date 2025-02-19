@@ -4,14 +4,22 @@ My name is Janira Gayle (she/her) and I am software developer and visual artist 
 
 ## Heres some of my favorite projects:
 ###  [Boba Shop Chatbox](https://github.com/janiragayle/boba-chatbox?tab=readme-ov-file)
-- Worked in a team of 3 to develop an interactive customer support agent using Next.js, integrated a custom RAG pipeline using Llama and Pinecone that responds based on a mock boba shop's knowledge base
+-  Worked in a team of 3 to develop an interactive customer support agent using Next.js, integrated a custom RAG pipeline using Llama and Pinecone that responds based on a mock boba shop's knowledge base
+
+| <img width="1000" alt="boba-menu" src="https://github.com/user-attachments/assets/3ee0831d-05d3-4f88-a5a2-0101edae91d6" /> | <img width="1000" alt="boba-chat-box" src="https://github.com/user-attachments/assets/d124e744-2605-4296-822c-d477cab06ecc" /> |
+| --- | -- |
+
 ###  [Visual Art Portfolio Template (A)](https://github.com/janiragayle/art-portfolio-a) (July-2024)
 - This is template (A) for a minimalistic visual art portfolio website.
 - Click [here](https://art-portfolio-a.netlify.app) to preview the template!
 - Heres how I've used the template to display my own art: [Janira Gayle's Art Portfolio](https://janiragayle.com/Art/index.html)
+
+<img width="1000" alt="Screenshot 2025-02-18 at 9 16 25 PM" src="https://github.com/user-attachments/assets/a0544545-3490-47cb-9fd1-ac4df3720faa" />
+
 ###  [Poker](https://github.com/janiragayle/Poker) (June-2024)
 - A one player poker game where the user can win tokens based on their hand ranking.
 - Click [here](https://poker-jg.netlify.app) to play!
+<img width="1103" alt="Screenshot 2025-02-18 at 9 17 27 PM" src="https://github.com/user-attachments/assets/387198a8-7e99-41bd-a175-dd2eac40c0d2" />
 
 ## 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/janira-gayle/
